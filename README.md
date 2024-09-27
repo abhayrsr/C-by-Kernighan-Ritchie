@@ -1,6 +1,3 @@
-# C-by-Kernighan-Ritchie
-Learning and practicing C programming through exercises and projects from The C Programming Language by Brian Kernighan and Dennis Ritchie.
-
 # C Programming Practice
 
 Welcome to my **C Programming Practice** repository! This repo contains all the code and exercises I'm working on while learning **C** from the classic book *The C Programming Language* by **Brian Kernighan** and **Dennis Ritchie**.
