@@ -31,8 +31,8 @@ To compile and run a C program from this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/C.git
-   cd C ```
+   git clone https://github.com/yourusername/C-by-Kernighan-Ritchie.git
+   cd C-by-Kernighan-Ritchie ```
 
 2. Compile the program:
    ```bash
