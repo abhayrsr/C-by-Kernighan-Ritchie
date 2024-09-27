@@ -32,15 +32,15 @@ To compile and run a C program from this repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/C-by-Kernighan-Ritchie.git
-   cd C-by-Kernighan-Ritchie ```
+   cd C-by-Kernighan-Ritchie 
 
 2. Compile the program:
    ```bash
-   gcc -o program_name program_name.c ```
+   gcc -o program_name program_name.c 
 
 3. Run the compiled program:
    ```bash
-   ./program_name ```
+   ./program_name
 
 ## Goals
 
@@ -60,5 +60,5 @@ This repository is licensed under the MIT License. Feel free to use the code for
 
 If you have any suggestions, questions, or feedback, feel free to reach out via GitHub Issues or contact me directly.
 
-LinkedIn - https://www.linkedin.com/in/abhay-raj-01ab7a278/
-Twitter(X) - https://x.com/abhayrsr76
+<mark> LinkedIn </mark> - https://www.linkedin.com/in/abhay-raj-01ab7a278/ 
+<mark> Twitter(X) </mark> - https://x.com/abhayrsr76
